@@ -4,7 +4,7 @@ title: Cat
 status: Published
 date: '2018-03-28'
 featuredImage: >-
-  https://d1b3giy51q9d49.cloudfront.net/DataFrame.jpg
+  https://d1b3giy51q9d49.cloudfront.net/Reading_From_WASB.jpg
 excerpt: This is an excerpt of Post Two
 categories:
   - category: Updates
