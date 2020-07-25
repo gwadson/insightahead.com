@@ -4,7 +4,7 @@ title: Cat
 status: Published
 date: '2018-03-28'
 featuredImage: >-
-  https://ucarecdn.com/69bcae44-f555-4b56-b08e-bd0f2013654a/-/crop/1634x1690/0,434/-/preview/
+  https://d1b3giy51q9d49.cloudfront.net/DataFrame.jpg
 excerpt: This is an excerpt of Post Two
 categories:
   - category: Updates

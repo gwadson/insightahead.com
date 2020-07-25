@@ -3,7 +3,7 @@ template: SinglePost
 title: Trees
 status: Published
 date: '2018-05-25'
-featuredImage: 'https://ucarecdn.com/52b27af8-262d-4e2c-9773-15125ab8a5b2/'
+featuredImage: '  https://d1b3giy51q9d49.cloudfront.net/yellow_van.jpg'
 excerpt: >-
   This is placeholder text that our web designers put here to make sure words
   appear properly on your website. This text is going to be replaced once the
