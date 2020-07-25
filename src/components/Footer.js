@@ -11,7 +11,10 @@ export default () => (
     <footer className="footer">
       <div className="container taCenter">
         <span>
-          Writen by <a href="https://thriveweb.com.au/">Wadson Guimatsa</a>
+          Writen by{' '}
+          <a href="https://www.linkedin.com/in/wadson-guimatsa">
+            Wadson Guimatsa
+          </a>
           {/* © Copyright {new Date().getFullYear()} All rights
           reserved. Writen by <a href="https://thriveweb.com.au/">Wadson Guimatsa</a>. */}
         </span>
